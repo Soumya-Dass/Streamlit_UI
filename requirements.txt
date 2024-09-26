@@ -1,0 +1,4 @@
+streamlit==1.38.0
+pandas==2.2.3
+plotly==5.14.0  # Use the latest stable version, or adjust based on your needs
+numpy==2.1.1  # Required by pandas and plotly
